@@ -3,3 +3,4 @@ Test_value
 LoL_Kek
 Line from User2.
 Line from user1.
+Line from User1 - lesson about rebase.
